@@ -36,4 +36,4 @@ Industry-leading **Exitlag Plus Premium** collaboration platform with template l
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion. 
+> This repository is provided for educational and utility purposes only. Use at your own discretion.  
